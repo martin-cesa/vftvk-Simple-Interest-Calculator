@@ -1,4 +1,32 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body{
+    background-color:black;
+    font-family: arial;
+    color: white;
+}
+h1{
+    color:grey;
+    font-family: verdana;
+}   
+.form1{
+    width: 68%;
+    margin: auto;
+    line-height: 2;
+}
+label{
+    display: inline-block;
+    width: 120px;
+}
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+.secdiv {
+    width: 68%;
+    margin: auto;
+    line-height: 1;
+    padding: 10px;
+}
